@@ -29,6 +29,12 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
 
+h4 {
+	color: black;
+}
+* {
+  box-sizing: border-box;
+}
 body {
 	line-height: 1;
 }
